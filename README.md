@@ -31,6 +31,7 @@ A Python-based application for detecting breast cancer using machine learning te
 
    bash
    git clone https://github.com/MantashaAlii/breast-cancer-detection.git
+   
    cd Breast-Cancer-Detection
    
 
